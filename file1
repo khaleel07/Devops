@@ -12,4 +12,7 @@ jenkins
 dockers
 kubernetes
 grafana
-
+ec2
+vpc
+s3
+iam
