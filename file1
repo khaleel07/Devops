@@ -5,3 +5,11 @@ terrafom commands
 4--> terraform apply
 5--> terraform refresh
 6--> terraform fmt
+maven
+sonarQube
+nexus
+jenkins
+dockers
+kubernetes
+grafana
+
